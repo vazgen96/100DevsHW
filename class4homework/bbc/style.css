@@ -1,0 +1,15 @@
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.wrappenone {
+    display: flex;
+    justify-content: space-between;
+}
+
+nav {
+    display: flex;
+}
+
+
